@@ -1,2 +1,6 @@
 Robotic Types Failure Classification Task
 
+A classification task on robotic failure types on joints and motion, using various types of classification models, decision trees, random forest, Gaussian Naive Bayes, K-Nearest Neighbours and Multi-layer Perception.
+This was done with K-folding due to the small dataset present and the bias of classes in each dataset.
+
+An EDA was conducted before classification models are taken place.
